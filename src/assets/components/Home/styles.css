@@ -1,0 +1,37 @@
+.img{
+    margin-top: 20vh;
+    margin-left: 25vh;
+    position: absolute;
+}
+
+
+.img1{
+    position: absolute;
+}
+
+#numero{
+    position: absolute;
+    font-size: 32px;
+    left: 3vh;
+    top: 20vh;
+    font-size: 30px;
+    color: #fff;
+}
+
+#nome{
+    position: absolute;
+    font-size: 32px;
+    left: 3vh;
+    top: 27vh;
+    font-size: 15px;
+    color: #fff;
+}
+
+#card{
+    position: absolute;
+    font-size: 32px;
+    left: 45vh;
+    top: 27vh;
+    font-size: 15px;
+    color: #fff;
+}
