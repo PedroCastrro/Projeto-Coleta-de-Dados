@@ -7,9 +7,8 @@ Projeto que visa coletar dados do cartao de credito do cliente  para lançar par
 
 
 ## Layout web
-![Web 1](https://github.com/PedroCastrro/assets/blob/main/Web1.png)
+![Web 1](https://github.com/PedroCastrro/asset2/blob/main/active-states.jpg)
 
-![Web 2](https://github.com/PedroCastrro/assets/blob/main/Web2.png)
 
 # Tecnologias utilizadas
 ## Front end
